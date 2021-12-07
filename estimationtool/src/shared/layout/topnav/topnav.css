@@ -1,0 +1,30 @@
+.es-topnav {
+  color: #fff;
+  position: relative;
+}
+
+.header-decoration {
+  border-bottom: 1px solid #1d1761;
+}
+
+.env-title {
+  font-size: 11px;
+  color: #73b643;
+}
+@media (max-width: 440px) {
+  .env-title {
+    display: none;
+  }
+  .logo-title {
+    visibility: hidden;
+  }
+}
+.es-topnav .es-toolbar {
+  min-height: 55px;
+}
+.user-name {
+  font-size: 12px;
+}
+.profile-menu {
+  top: 52px !important;
+}

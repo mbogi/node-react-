@@ -1,0 +1,37 @@
+.login-title {
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.bg-img {
+    height: 100%;
+    background:url(./bg.png) no-repeat center;
+    background-size: cover;
+}
+
+.bg-mask {
+    height: 100%;
+    width: 100%;
+    background-color: #2f2f2f4d;
+}
+
+.promo-box  {
+    padding: 22%;
+    background: #ffffff54;
+}
+.promo-box .title{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.promo-box .sub-title{
+    font-size: 16px;
+}
+
+.width-100
+{
+    width: 100%;
+}
+.error-msz {
+    color:rgb(255, 0, 0);
+    
+}
